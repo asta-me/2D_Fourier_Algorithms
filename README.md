@@ -2,6 +2,8 @@
 
 This repository provides a comprehensive suite of Python algorithms for generating 2D phase-only holograms (kinoforms) in the Fourier regime, using Fast Fourier Transform (FFT) methods. It includes both classic and advanced iterative phase retrieval techniques, as well as tools for benchmarking and visualizing their performance.
 
+All algorithms are open for revisions and to be perfectioned;
+
 ## Features
 
 - **Multiple Algorithms:**
